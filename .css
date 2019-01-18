@@ -1,0 +1,51 @@
+body {
+  background-color: yellow;
+}
+h1 {
+  text-align: center;
+  color: hotpink;
+}
+p{ 
+  color: rgb(4, 169, 245);
+}
+h3{ color: lime;
+}
+
+li{ color: blueviolet;
+}
+
+h2{ color: red;
+}
+
+
+.flexbox {
+  display: flex;
+}
+
+.flexbox img {
+  width: 100%;
+  height: auto;
+}
+
+.flexbox p {
+  margin-left: 10px;
+}
+
+.mood {
+  display: flex;
+  height:100px;
+
+  justify-content: center;
+}
+
+.mood img{
+  border: black 2px solid;
+}
+
+.together {
+  display: flex;
+}
+
+.together p {
+  margin-left: 10px; 
+}
